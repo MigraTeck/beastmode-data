@@ -1,0 +1,41 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Bench Press",
+      "category": "Chest",
+      "sets": 4,
+      "reps": 10,
+      "rest": 60,
+      "animation": "bench_press.json",
+      "description": "Lie flat on a bench and press the barbell upward until arms are fully extended, then lower it slowly."
+    },
+    {
+      "id": 2,
+      "name": "Squats",
+      "category": "Legs",
+      "sets": 4,
+      "reps": 12,
+      "rest": 60,
+      "animation": "squats.json",
+      "description": "Stand tall, lower your body by bending knees and hips, then return to standing."
+    },
+    {
+      "id": 3,
+      "name": "Push-Ups",
+      "category": "Chest",
+      "sets": 3,
+      "reps": 15,
+      "rest": 45,
+      "animation": "pushups.json",
+      "description": "Keep your body straight, lower chest to floor, and push back up."
+    }
+  ],
+  "quotes": [
+    "While they sleep, I grind.",
+    "Pain is temporary. Strength is forever.",
+    "Discipline is greater than motivation.",
+    "One rep at a time, one day at a time.",
+    "No shortcuts, only results."
+  ]
+}
